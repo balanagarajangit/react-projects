@@ -1,0 +1,11 @@
+.shimmer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    border: 2px solid white;
+    width: 350px;
+    margin: 10px;
+    height: 300px;
+}

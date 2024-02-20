@@ -1,0 +1,23 @@
+.border-2{
+    background: #000;
+    color: white;
+}
+.out{
+    background: #000;
+    color: white;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.lis{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid white;
+    height: 300px;
+    gap: 10px;
+    width: 25%;
+    padding-top: 20px;
+    align-items: center;
+    background: #000;
+}
